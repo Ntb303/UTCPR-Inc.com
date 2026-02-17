@@ -16,6 +16,16 @@ import {
 
 // ✅ Vercel/Next.js notes
 // - Put all images in /public (Next.js serves them at /<filename>)
+  2.png
+  Nish Professional Pic.jpg
+  Yash Library Class.jpg
+  Prisha and Yash.jpg
+  Sig Ep KD Class.jpg
+  Dhruv and Vik.jpg
+  Gauri and Darshil.jpg
+  Nish on the News.jpg
+  Donald Parks Award.jpg
+  UT CPR Basketball Tournament.jpg
 // - Filenames with spaces can work, but encoding is safer.
 const img = (filename) => encodeURI(`/${filename}`);
 
